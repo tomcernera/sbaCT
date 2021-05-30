@@ -1,0 +1,15 @@
+{
+  "name": "sbact",
+  "version": "1.0.0",
+  "description": "SBA PPP loans for the state of Connecticut",
+  "main": "etlProcess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "mongodb": "^3.6.9"
+  }
+}
